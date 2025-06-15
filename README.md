@@ -175,4 +175,4 @@ ThoughtDrop provides a secure, private space for personal journaling with all th
 
 
 ## 🌐 Check the Live App  
-[Click here to view the app on Vercel!]()
+[Click here to view the app on Vercel!](https://thought-drop.vercel.app)
